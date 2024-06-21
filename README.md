@@ -185,12 +185,11 @@ In this fifth step, you’ll add more functionality to your quiz application. Fi
 DEMO IMAGE OF SOURCE CODE
 
 
-![B](https://github.com/vishnuyadav78/python-project-for_internship/assets/173454005/2df25fb0-4ad2-4317-9a48-95d1cc71a6b0)
-
-
 
 B![H](https://github.com/vishnuyadav78/python-project-for_internship/assets/173454005/0a3b9723-b5d0-4f57-af2b-0f8f759adf7d)
 
 
 
 
+
+![B](https://github.com/vishnuyadav78/python-project-for_internship/assets/173454005/359b89e0-aab4-44aa-8b4e-155adf9ec110)
